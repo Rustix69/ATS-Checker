@@ -2,13 +2,13 @@
 
 A tool for checking and improving the ATS (Applicant Tracking System) compatibility of your resume.
 
-## Features
+### Features
 
 - Score your resume against ATS algorithms
 - Get recommendations for improvements
 - Optimize your resume for job applications
 
-## Getting Started
+### Getting Started
 
 Follow these steps to set up the project locally:
 
@@ -37,7 +37,7 @@ Follow these steps to set up the project locally:
 
 4. Open your browser and navigate to [http://localhost:3000](http://localhost:3000)
 
-## Technologies Used
+### Technologies Used
 
 - Next.js
 - React
@@ -47,10 +47,7 @@ Follow these steps to set up the project locally:
 - Prisma
 - PostgreSQL
 
-## License
 
-[MIT](LICENSE)
-
-## Acknowledgments
+### Acknowledgments
 
 - This project was created to help job seekers improve their resume's compatibility with ATS systems. 
