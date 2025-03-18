@@ -1,6 +1,6 @@
 # ATS Checker
+This is a Open Source ATS Checker which harness the power of LLM Models to check the ATS Score.
 
-A tool for checking and improving the ATS (Applicant Tracking System) compatibility of your resume.
 
 ### Features
 
